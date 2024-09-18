@@ -21,7 +21,8 @@ jobs:
           ruby-version: "2.7"
       - name: Run pre-commit
         run: pip install pre-commit
-             pre-commit run --all-files
+      - name: Run pre-commit hooks
+        run: pre-commit run --all-files
       - name: Install Ceedling
         run: gem install ceedling
       - name: Install GCov Reporter
