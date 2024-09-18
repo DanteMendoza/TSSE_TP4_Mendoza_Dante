@@ -5,6 +5,10 @@ Repositorio de la materia Testing de Software en Sistemas Embebidos de la FIUBA 
 
 - HECTOR DANTE MENDOZA
 
+## Nota importante
+
+Se deja adjunto un archivo PDF de nombre "desa1 · DanteMendoza_TSSE_TP4_Mendoza_Dante@38b8f9c.pdf" en el cual se muestran capturas de las salidas por consola donde se pueden comprobar satisfactoriamente los pre-commits y las pruebas de ceedling.
+
 ## Uso del repositorio
 
 Este repositorio utiliza [pre-commit](https://pre-commit.com) para validaciones de formato. Para trabajar con el mismo usted debería tener instalado:

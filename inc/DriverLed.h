@@ -2,7 +2,7 @@
 #include <stdbool.h>
 
 /** @brief Initialize address of leds and turn off all */
-void DriverLed_Create(uint16_t *address);
+void DriverLed_Create(uint16_t * address);
 
 /** @brief Turn on led */
 void DriverLed_TurnOn(uint16_t numberled);
